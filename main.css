@@ -1,0 +1,13 @@
+.named-li code {
+  color: green
+}
+
+code {
+  color: red;
+  font-family: monospace;
+}
+
+#assignment-instructions {
+  color: rgb(185, 182, 9);
+  font-family: sans-serif;
+}
