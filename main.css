@@ -1,3 +1,7 @@
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .named-li code {
   color: green
 }
@@ -10,4 +14,13 @@ code {
 #assignment-instructions {
   color: rgb(185, 182, 9);
   font-family: sans-serif;
+}
+
+li:not(:first-child) {
+  background-color: black;
+  color: white;
+}
+ol li {
+  background-color: black;
+  color: white
 }
